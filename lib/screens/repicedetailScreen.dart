@@ -16,7 +16,7 @@ class RecipeDetailScreen extends StatefulWidget {
 class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
   Map<String, dynamic>? recipeDetail;
 
-  final String apiKey = '6c62eba48a8e41ae98d265471f3e2d60';
+  final String apiKey = '';
 
   Future<void> fetchRecipeDetail() async {
     final url = Uri.parse(
