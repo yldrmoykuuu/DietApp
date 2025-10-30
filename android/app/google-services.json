@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712467818529",
+    "project_id": "healthifyyyy",
+    "storage_bucket": "healthifyyyy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712467818529:android:235a0bf5fcc5ba813d1b60",
+        "android_client_info": {
+          "package_name": "com.example.healty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzoPh_XqI8tc0_WLs93pJOou8W0pzLxz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
